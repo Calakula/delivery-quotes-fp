@@ -14,7 +14,7 @@ Introduction to Functional Programming, Astana IT University, 2026-2027. One C# 
 
 - Repository: https://github.com/Calakula/delivery-quotes-fp
 - Branch: `main`
-- Final commit identifier of the submitted code: `COMMIT_ID_PLACEHOLDER`
+- Final commit identifier of the submitted code: `c56bdfcb4bd32dbe8dde73205c269566503c9c9e`
 
 (A commit cannot contain its own identifier: the id above is the commit of the code, and the commit after it only records this id in `README.md` and `GIT_REPOSITORY.txt`. The archive uploaded to Moodle contains exactly this code.)
 
