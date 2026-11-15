@@ -1,0 +1,3 @@
+Repository: https://github.com/Calakula/delivery-quotes-fp
+Branch: main
+Final commit identifier of the submitted code: COMMIT_ID_PLACEHOLDER

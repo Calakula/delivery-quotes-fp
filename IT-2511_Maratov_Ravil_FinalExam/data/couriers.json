@@ -1,0 +1,5 @@
+[
+  { "Id": "C-1", "Name": "Aibek", "Capacity": 300 },
+  { "Id": "C-2", "Name": "Bota", "Capacity": 200 },
+  { "Id": "C-3", "Name": "Sanzhar", "Capacity": 150 }
+]
